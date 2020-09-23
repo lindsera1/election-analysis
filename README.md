@@ -21,7 +21,7 @@ Include:
 
 After our analysis, the results were as follows:
 
--There were 369,711 total votes cast in the election
+- There were 369,711 total votes cast in the election
 
 The candidates names and results:
 

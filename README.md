@@ -27,7 +27,7 @@ The candidates names and results:
 
 - Charles Casper Stockham, who received 23.0% of the total votes at 85,213 votes
 - Diana DeGett, who received 73.8% of the total votes at 272,892 votes
-- Rayon Anthony Doane, who received 3.1% of the total votes at 11,606 votes
+- Raymon Anthony Doane, who received 3.1% of the total votes at 11,606 votes
 
 The winner of the election with the highest share of the votes:
 
